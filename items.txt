@@ -1,0 +1,32 @@
+Gucci Ace Sneakers
+gucci.jpg
+4
+620
+Moschino Fleece Hoodie
+moschino.jpg
+5
+950
+Burberry Classic Cashmere Scarf
+burberry.jpg
+16
+430
+Louis Vuitton Neverfull MM Bag
+louis.jpg
+7
+1320
+GG Marmont Matelassé Mini Bag
+guccibag.jpg
+10
+980
+Prada Round Polarized Sunglasses
+prada.jpg
+23
+440
+Balenciaga Logo Printed T-Shirt
+balenciaga.jpg
+14
+495
+Alexander McQueen Oversized Sneaker
+alexander.jpg
+19
+490

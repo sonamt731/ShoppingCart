@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Customer Info Page</title>
+    <link rel="stylesheet" href="inventory.css">
+	<script type = "text/javascript" src = "customer.js">
+    </script>
+    
+</head>
+
+<body>
+<div class = "headerbox">
+    <b>Customer Info</b>
+    </div>   
+<div class = "centerbox">
+        <p>Enter Your Information to Visit the Luxary Brand Site</p>
+</div>
+    
+<br>
+<form onsubmit="valid(event)" name = "myForm" action="inventory.php" method ="post">
+<div class = "anotherbox">
+<p>First Name: <input type = "text" name = "firstname"></p>  
+<p>Last Name:  <input type = "text" name = "lastname"></p>  
+
+<p>NYU Email Address: </p>
+<input type = "text" name = "youremail">@nyu.edu<br>
+<br>
+    
+<input name= "submit" type= "submit" value="Continue To Order">
+<input type=reset value=Cancel>
+</div>
+</form>
+    
+    
+</body>
+</html>
